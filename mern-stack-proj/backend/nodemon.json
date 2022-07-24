@@ -1,0 +1,9 @@
+{
+ "env":{
+  "DB_USER":"ani",
+  "DB_PASSWORD":"king",
+  "DB_NAME":"mern_proj_test",
+  "MAP_API_KEY":"2QewwFTnJ5ypvl9WGjGs7vV59AKYVxIV",
+  "JWT_KEY":"supersecret_dont_share"
+ }
+}
